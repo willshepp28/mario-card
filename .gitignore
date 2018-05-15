@@ -1,0 +1,5 @@
+.DS_Store
+.node_modules
+server/node_modules
+notes.txt
+todo.txt
