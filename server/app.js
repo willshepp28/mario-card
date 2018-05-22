@@ -39,7 +39,7 @@ application.use(bodyParser.json());
 // Express will allow requests from port 8080
 // 8080 needs access to our json data
 application.use(cors({
-  origin: 'http://localhost:8080',
+  origin: 'http://localhost:4200',
   optionsSuccessStatus: 200
 }));
 
